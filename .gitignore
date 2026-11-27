@@ -21,4 +21,5 @@ out_debug.txt
 # Environment
 .env
 venv/
+venv311/
 env/
